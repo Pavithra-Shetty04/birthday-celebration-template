@@ -90,17 +90,17 @@ function App() {
       <div
         ref={page1Ref}
         className={`page ${currentPage === 1 ? "active" : ""}`}
-        style={{ visibility: currentPage === 1 ? "visible" : "hidden" }}
+        style={{ visibility: currentPage === 1 ? "visible": "hidden" }}
       >
         <section className="hero">
           <h1 id="heroTitle">
             {birthdayReached ? (
               <>
-                Happy Birthday <span className="highlight">[Name]</span> 🎂
+                Happy Birthday <span className="highlight">PV</span> 🎂
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">[Name]'s</span>{" "}
+                Counting down to <span className="highlight">PV's</span>{" "}
                 special day 🎂
               </>
             )}
