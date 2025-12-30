@@ -13,7 +13,7 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Dear MANGU],
+  const message = `Dear MANGU,
 
 As you told me, you are never too excited for your birthday. 
 But here are three reasons why you should be excited for your birthday here on:
@@ -29,11 +29,7 @@ know that there is one other person who wants to celebrate you on 31st January e
 
 Happy Birthday MANGUDOOOO!
 
-— [PV/Darl]'
-
-Happy Birthday! 🎉
-
-— [Your Name]`;
+— PV/Darl'`;
 
   // Handle page transitions
   useEffect(() => {
