@@ -29,7 +29,7 @@ know that there is one other person who wants to celebrate you on 31st January e
 
 Happy Birthday MANGUDOOOO!
 
-— PV/Darl';
+— PV/Darl'
 
   // Handle page transitions
   useEffect(() => {
