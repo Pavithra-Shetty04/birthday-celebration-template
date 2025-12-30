@@ -13,23 +13,19 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Dear MANGU],
+  const message = `[Recipient Name],
 
-As you told me, you are never too excited for your birthday. 
-But here are three reasons why you should be excited for your birthday here on:
+Your personalized birthday message goes here.
 
-1. You are not the greatest but you are a decent human on this dharthi, so celebrate that.
-2. You are growing a year wiser after collecting all the amazing memories and learnings!
-3. You have a girlfriend who will treat you like a prince and give you a ton of suprises that you deserve(For one day only).
+You can write multiple paragraphs to express your feelings,
+share memories, and make this special day even more memorable.
 
-I think you are SOLD NOW because of the third reason haha!
+This template supports multiple lines and formatting,
+so feel free to customize it completely to fit your style.
 
-So, be HAPPY on this very special day because even if you dont want to celebrate it,
-know that there is one other person who wants to celebrate you on 31st January every year!
+Happy Birthday! 🎉
 
-Happy Birthday MANGUDOOOO!
-
-— [PV/Darl]';
+— [Your Name]`;
 
   // Handle page transitions
   useEffect(() => {
