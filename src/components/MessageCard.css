@@ -68,14 +68,14 @@
 }
 
 .curtain-left {
-  background: linear-gradient(to right, #8b0000, #b22222, #dc143c);
+  background: linear-gradient(to right, #137B94 , #137B94 , #137B94 );
   transform-origin: left center;
   box-shadow: 5px 0 20px rgba(0, 0, 0, 0.3);
   border-right: 3px solid rgba(255, 215, 0, 0.3);
 }
 
 .curtain-right {
-  background: linear-gradient(to left, #8b0000, #b22222, #dc143c);
+  background: linear-gradient(to left, #137B94 , #137B94 , #137B94 );
   transform-origin: right center;
   box-shadow: -5px 0 20px rgba(0, 0, 0, 0.3);
   border-left: 3px solid rgba(255, 215, 0, 0.3);
