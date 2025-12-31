@@ -25,7 +25,7 @@ But here are three reasons why you should be excited for your birthday here on:
 I think you are SOLD NOW because of the third reason haha!
 
 So, be HAPPY on this very special day because even if you dont want to celebrate it,
-know that there is one other person who wants to celebrate you on 31st January every year!
+know that there is one other person who wants to celebrate you on 31st December every year!
 
 Happy Birthday MANGUDOOOO!
 
